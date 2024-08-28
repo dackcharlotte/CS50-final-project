@@ -1,0 +1,6 @@
+pip install deepl
+pip install gtts
+pip install regex
+pip install pathlib
+pip install pip install amazon-textract-textractor
+pip install textract
